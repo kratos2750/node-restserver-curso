@@ -35,3 +35,6 @@ password : ogiB1c9NHna0TRUt
 cadena de conexión 
 mongodb+srv://kratos:ogiB1c9NHna0TRUt@cluster0.e4tir.mongodb.net/cafe
 */
+
+
+mongodb+srv://kratos:<password>@cluster0.e4tir.mongodb.net/<dbname>?retryWrites=true&w=majority
